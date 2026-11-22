@@ -1,5 +1,5 @@
 # Rogueboard
-A flipper app (.fap) that allows the user to sniff for and connect to E-skateboards via NRF24.
+A flipper app (.fap) that allows the user to sniff and connect to E-skateboards via NRF24.
 
 ## ⚠️ Disclaimer
 This application is intended **solely for educational purposes, research, and authorized testing** on hardware that you own or have explicit permission to test. 

@@ -7,6 +7,6 @@ App(
     stack_size=2 * 1024,
     fap_category="Tools",
     fap_version="0.1",
-    fap_icon="Rogueboard.png",  # 10x10 1-bit icon, add before building
+    fap_icon="rogueboard.png",  # 10x10 1-bit icon, add before building
     fap_description="nRF24 e-skateboard remote sniffer (bench: Exway)",
 )
